@@ -4,6 +4,7 @@
 // @version      1.0.1
 // @description  Adds Additional views section to Zendesk Sidebar
 // @author       A. Glen Smith
+// @updateURL    https://raw.githubusercontent.com/aglensmith/UserScripts/master/addviews.js
 // @match        https://americommerce.zendesk.com/agent/filters/*
 // @grant        none
 // @License      GNU General Public License
