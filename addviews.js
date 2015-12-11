@@ -12,7 +12,7 @@
 /* jshint -W097 */
 'use strict';
 
-//Add Views here
+//PUT YOUR VIEWS IN HERE. JUST COPY AND PASTE THE NAME AND URL RIGHT HERE!!!!!!
 var viewsToAdd = [
     
     //View Text            //View Url
@@ -58,5 +58,5 @@ function AddViews(views) {
 }
 
 
-//Wait for damn page to load
+//Wait for gosh darn page to load
 window.setTimeout(function() { AddViews(viewsToAdd); }, 8000 );
