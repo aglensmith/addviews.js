@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Addviews List
 // @namespace    http://www.aglensmith.com/
-// @version      1.0.1
+// @version      1.0.3
 // @description  Adds Additional views section to Zendesk Sidebar
 // @author       A. Glen Smith
 // @updateURL    https://raw.githubusercontent.com/aglensmith/UserScripts/master/addviews.js
