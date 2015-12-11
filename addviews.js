@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Addviews List
 // @namespace    http://www.aglensmith.com/
-// @version      1.0
+// @version      1.0.1
 // @description  Adds Additional views section to Zendesk Sidebar
 // @author       A. Glen Smith
 // @match        https://americommerce.zendesk.com/agent/filters/*
